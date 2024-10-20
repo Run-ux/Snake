@@ -22,3 +22,7 @@
 
 - **地图、蛇头蛇身、障碍物、速度剂素材**：存放在文件夹`resource`  
   Pictures including map, snake body, obstacles, and speed agent are in the folder `resource`.
+
+<img src="./snake/resource/game1.png" alt="游戏图片game" width="200" height="200">
+<img src="./snake/resource/game2.png" alt="游戏图片game" width="200" height="200">
+
